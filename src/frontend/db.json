@@ -1,0 +1,55 @@
+{
+  "conta": {
+    "saldo": 100
+  },
+  "transacoes": [
+    {
+      "transacao": "deposito",
+      "valor": "15",
+      "data": "14/02/2022",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "15",
+      "data": "14/02/2022",
+      "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "15",
+      "data": "14/02/2022",
+      "id": 3
+    },
+    {
+      "transacao": "deposito",
+      "valor": "45",
+      "data": "14/02/2022",
+      "id": 4
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "14/02/2022",
+      "id": 5
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "14/02/2022",
+      "id": 6
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "14/02/2022",
+      "id": 7
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "14/02/2022",
+      "id": 8
+    }
+  ]
+}
